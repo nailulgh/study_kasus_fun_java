@@ -1,0 +1,14 @@
+# ========================================================================
+# BUKU KAS BESAR ZISWAF — LAZIS MASJID TARBIYAH UIN MAULANA MALIK IBRAHIM
+# Rekapitulasi Terpadu: Zakat Mal, Zakat Fitrah, Infaq Gedung & Shadaqah
+# Format Record: ID|WAKTU|NIK|NAMA|NOHP|ALAMAT|KATEGORI_MUZAKKI|JENIS_DANA|KATEGORI|NOMINAL|BERAS|JIWA|KETERANGAN
+# ========================================================================
+ZSW-20260901-001|2026-09-01 09:15:00|198005152006041002|Prof. Dr. H. Ahmad Fauzi, M.Kom|081234567891|Fakultas Sains dan Teknologi|Dosen / Tendik|Zakat Profesi (Penghasilan)|ZAKAT|350000|0.0|1|Zakat Profesi Dosen FST
+ZSW-20260905-002|2026-09-05 13:40:00|240605110025|Muhammad Rizky Pratama|085712345678|Mabna Ibnu Sina Kamar 204|Mahasiswa UIN|Infaq Gedung & Sarana|INFAQ|50000|0.0|1|Infaq Pembangunan Sound Masjid
+ZSW-20260910-003|2026-09-10 16:20:00|3573010508820003|Hj. Siti Aminah, S.Ag|081398765432|Jl. Sunan Kalijaga No. 12 Malang|Masyarakat Umum|Zakat Mal (Tabungan & Emas)|ZAKAT|3000000|0.0|1|Zakat Mal Tabungan Emas Haul 1 Th
+ZSW-20260915-004|2026-09-15 08:30:00|230605110088|Aisyah Nur Sabrina|089611223344|Mabna Khadijah Kamar 112|Mahasiswa UIN|Sedekah Subuh & Sosial|SHADAQAH|25000|0.0|1|Sedekah Subuh Peduli Dhuafa
+ZSW-20260920-005|2026-09-20 10:05:00|3573021903750001|Drs. Bambang Sudarsono, M.Si|081223344556|Gajayana Residence No. B-4|Dosen / Tendik|Zakat Fitrah (Uang)|ZAKAT|180000|0.0|4|Zakat Fitrah 4 Jiwa Keluarga
+ZSW-20260922-006|2026-09-22 14:15:00|3573032512900005|Keluarga Bpk. Santoso|082155667788|Dinoyo Gg. 6 Malang|Masyarakat Umum|Zakat Fitrah (Beras)|ZAKAT|0|7.5|3|Zakat Fitrah Beras 3 Jiwa
+ZSW-TEST-001|2026-09-26 10:00:00|198001012005011001|Dr. H. Ahmad Fauzi|081234567890|FST UIN Malang|Dosen / Tendik|Zakat Profesi (Penghasilan)|ZAKAT|250000|0.0|1|Zakat Profesi Bulanan
+ZSW-TEST-001|2026-09-26 10:00:00|198001012005011001|Dr. H. Ahmad Fauzi|081234567890|FST UIN Malang|Dosen / Tendik|Zakat Profesi (Penghasilan)|ZAKAT|250000|0.0|1|Zakat Profesi Bulanan
+ZSW-20260926-103730|2026-09-26 10:37:30|198503122010121003|Dr. H. Muhammad Ridwan, M.T.|081234889900|Fakultas Sains dan Teknologi UIN Malang|Dosen / Tendik|Zakat Profesi (Penghasilan)|ZAKAT|200000|0.0|1|ZISWAF Berkah Sivitas UIN Maliki Malang
